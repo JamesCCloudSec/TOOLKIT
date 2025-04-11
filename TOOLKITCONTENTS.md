@@ -1,6 +1,6 @@
 ## Field Security Toolkit (Personal Operations Framework)
 
-**This repository documents the structure, contents, and operational usage of my portable cybersecurity toolkit. It reflects hands-on practice with encryption, system hardening, partition control, backup management, and client readiness. This project was designed and tested independently to simulate professional deployment scenarios.**
+**This file documents the structure, contents, and operational usage of my portable cybersecurity toolkit. It reflects hands-on practice with encryption, system hardening, partition control, backup management, and client readiness. This project was designed and tested independently to simulate professional deployment scenarios.**
 
 **Status:** Fully tested on personal systems. Ready for field deployment. Not built under contract.
 
