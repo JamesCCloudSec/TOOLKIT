@@ -42,8 +42,8 @@ Scripts are categorized by purpose and include launchers and readmes for clarity
 
 Includes core tools for system visibility, integrity, and defense:
 
-- `Bitwarden`, `Wireshark`, `Nmap`, `SyncBackFree`, `Malwarebytes`, `VeraCrypt`  
-- Plus essential utilities like `7-Zip`, `Firefox`, `VirtualBox`, `ProtonVPN`  
+- `Bitwarden`, `Wireshark`, `Nmap`, `SyncBackFree`, `Malwarebytes`, `VeraCrypt`, `CrowdSec`
+- Plus essential utilities like `7-Zip`, `Firefox`, `VirtualBox`, `ProtonVPN` 
 
 **🛠Resume Highlight:**  
 **Security stack deployment, live response tooling, open-source security integration**
